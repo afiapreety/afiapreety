@@ -16,8 +16,8 @@ I’ve got more hobbies than tabs open in Chrome—baking, traveling, you name i
 Basically, a true jack of all fruits, master of none... but I like to think I’m part smoothie, part chaos in a coffee cup ☕️
 
 #### Let's connect 🌎
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/afiaanjumpreety)
-[<img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/2apreety18)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/afiapreety)
+[<img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/afiapreety)
 
 
 
